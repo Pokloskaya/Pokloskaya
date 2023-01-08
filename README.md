@@ -17,4 +17,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pokloskaya&" alt="pokloskaya" /></p>
 
 <h1 align="center"></h1>
-<h3 align="left">God bless. </h3>
+<h3 align="left">Musik <3</h3>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fmow1zse8cxmjl9ugfyvhiz98)
