@@ -3,7 +3,7 @@
 </p>
       
 <h1 align="center">Hi, I'm Julian✨</h1>
-<h3 align="center">- 👀 I’m a computer science student of EAFIT University, in Medellin, Colombia. - 🌱 I’m a very passionate person, always looking for new things to learn. - 💞️ I’m a college athlete, representing my university in track & field competitions.</h3>
+<h3 align="center">- I’m a computer science student of EAFIT University, in Medellin, Colombia. - 🌱 I’m a very passionate person, always looking for new things to learn. - 💞️ I’m a college athlete, representing my university in track & field competitions. Also, I work at Bancolombia; Colombia's biggest bank 🔥🔥 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
